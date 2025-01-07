@@ -28,10 +28,13 @@
 - 물체의 각속도를 측정하는 센서입니다.
 - 예시: 일정 시간 동안 X, Y, Z 축으로 각도가 얼마나 변했는가?
 
-![센서 설명](uploaded/file-Rbt7vD85J5fuZ6LDRfnDT8.png)
+<img width="423" alt="스크린샷 2025-01-07 오후 7 56 31" src="https://github.com/user-attachments/assets/556412d8-177c-47f2-8c7b-7021ffa6383a" />
+
 
 
 ## 프로젝트 주요 단계
+<img width="541" alt="스크린샷 2025-01-07 오후 7 57 12" src="https://github.com/user-attachments/assets/d89cb7eb-d841-4d56-b8da-3b09432a52c3" />
+<img width="541" alt="스크린샷 2025-01-07 오후 7 57 58" src="https://github.com/user-attachments/assets/2f4b7e07-3a03-4fb4-a7db-12579fde1b6f" />
 
 ### 1. 데이터 탐색 (EDA)
 
@@ -42,8 +45,6 @@
 - 변수별 중요도 확인하기
 - 그룹별 중요도 확인하기
 - 일부 변수의 실제값 분포 확인하기
-
-![데이터 탐색](uploaded/file-GfhnT5jZnN8TwUrmptAVNW.png)
 
 
 ### 2. 기본 모델링
@@ -68,7 +69,7 @@
 #### 모델 통합
 - 단계별 모델을 통합하고 최종 예측 결과와 성능 평가가 나오도록 구성합니다.
 
-![단계별 모델링](uploaded/file-JyA2vSN2VGX7C82nF2musP.png)
+<img width="600" alt="스크린샷 2025-01-07 오후 7 49 57" src="https://github.com/user-attachments/assets/0064b97f-7b15-4a8f-86f6-5fd5b9ead3f8" />
 
 
 ## 첨부 자료
